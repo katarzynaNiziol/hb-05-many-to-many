@@ -1,0 +1,7 @@
+
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(„Îú°
+P
+java:S1854":Remove this useless assignment to local variable "myConn".(„Îú°
+A
+java:S1481"+Remove this unused "myConn" local variable.(„Îú°
